@@ -1658,7 +1658,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 17000; x++) {
-        message.channel.send(`**لما تكون طيز بس شبح **[ " ${x} " ]`)
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -1672,7 +1672,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 17000; x++) {
-        message.channel.send(`**لما تكون طيز بس شبح **[ " ${x} " ]`)
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -1681,7 +1681,243 @@ if (message.content === '$spam') {
       }
 });
 
+client11.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
 
+client12.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client13.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client14.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client15.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client16.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client17.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client18.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client19.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client20.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client21.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client22.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client23.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client24.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client25.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client26.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client27.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 17000; x++) {
+        message.channel.send(`**you fell for it fool, split cross attack **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
 
 client.on('message', message => {
     if(message.content === '!rep'){
